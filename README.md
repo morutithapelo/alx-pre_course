@@ -1,1 +1,1 @@
-My first readme
+Makhathini the programmer
